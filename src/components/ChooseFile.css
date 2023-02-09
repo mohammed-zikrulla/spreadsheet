@@ -1,0 +1,36 @@
+.input-container {
+    padding: 50px;
+    border: 5px solid rgb(129, 20, 20);
+    margin: 60px 40px 60px 40px;
+    background-color: #e2e2e2;
+}
+
+.input-group {
+    padding-top: 50px;
+    width: 75vw;
+    margin: auto
+}
+
+.btn-outline-secondary {
+    color: #f8f9fa;
+    background-color: #17a2b8;
+    background-image: none;
+    border-color: #6c757d;
+}
+
+.input-group-choose {
+    padding-top: 50px;
+    width: 75vw;
+    margin: auto
+}
+
+.choice {
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.main-container {
+    margin-top: 100px;
+    margin-left: 30px;
+}
