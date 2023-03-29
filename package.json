@@ -16,6 +16,7 @@
     "react-collapsing-table": "^1.0.5",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "ta-json": "^2.5.0",
     "web-vitals": "^2.1.4",
     "xlsx": "^0.18.5"
   },
